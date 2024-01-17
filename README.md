@@ -6,7 +6,7 @@ We don't care if you break things. This is a playground, and we encourage failin
 
 1. Check out [Andrei's videos on github](https://www.youtube.com/watch?v=JN63v_czZqI) if you haven't watched it already.
 
-2. On the [GitHub page for this repository](https://github.com/zero-to-mastery/start-here-guidelines), click on the button "Fork."
+2. On the [GitHub page for this repository](https://github.com/zero-to-mastery/gitHubStartHere), click on the button "Fork."
 
    ![fork image](https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png)
 
@@ -17,7 +17,7 @@ We don't care if you break things. This is a playground, and we encourage failin
    For example, run this command inside your terminal:
 
    ```bash
-   git clone https://github.com/<your-github-username>/start-here-guidelines.git
+   git clone https://github.com/<your-github-username>/gitHubStartHere.git
    ```
 
    **Replace \<your-github-username\>!**
@@ -27,13 +27,13 @@ We don't care if you break things. This is a playground, and we encourage failin
 4. Move to project directory:
 
    ```bash
-   cd start-here-guidelines
+   cd gitHubStartHere
    ```
 
 5. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
    ```bash
-   git remote add upstream https://github.com/zero-to-mastery/start-here-guidelines.git
+   git remote add upstream https://github.com/zero-to-mastery/gitHubStartHere.git
    git pull upstream master
    ```
 
@@ -78,7 +78,7 @@ We don't care if you break things. This is a playground, and we encourage failin
 
 11. Wait until Zerobot or one of the maintainers merges your pull request. If there are any conflicts, you will get a notification and be required to resolve the conflict.
 
-12. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all levels of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get_Started.md) for more information on selecting a project.
+12. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all levels of programmers)! [Check out this guide](https://github.com/zero-to-mastery/gitHubStartHere/blob/master/Get_Started.md) for more information on selecting a project.
 
 13. To see the Zero to Mastery Icon in your GitHub profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete steps 1 and 2 for this to work).
 
@@ -126,4 +126,4 @@ Finally, open-source projects use the following tools to organize discussion. Re
 
 **Synchronous chat channel**: Some projects use chat channels (such as Discord or IRC) for casual conversation, collaboration, and quick exchanges.
 
-**Get all the ZTM Courses, for one monthly subscription** [here](https://zerotomastery.io/courses?utm_source=github&utm_medium=start-here-guidelines).
+**Get all the ZTM Courses, for one monthly subscription** [here](https://zerotomastery.io/courses?utm_source=github&utm_medium=gitHubStartHere).

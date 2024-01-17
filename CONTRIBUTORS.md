@@ -1,5 +1,5 @@
 # CONTRIBUTORS
 
-- [Dr. Egan] (https://github.com/maegan)
+- [Dr. Egan](https://github.com/maegan)
 
-- [Dr. Teresco] (https://github.com/jteresco)
+- [Dr. Teresco](https://github.com/jteresco)

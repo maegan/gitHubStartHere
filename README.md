@@ -2,9 +2,9 @@
 
 We don't care if you break things. This is a playground, and we encourage failing often. Use this as a practice ground, and enjoy contributing to projects you create with your fellow students. Many students have gained real-world experience "working in teams" by working on these projects.
 
-## A Guide to Get Started (used to be the 4 step guide)
+## A Guide to Get Started 
 
-1. Check out [Andrei's videos on github](https://www.youtube.com/watch?v=JN63v_czZqI) if you haven't watched it already.
+1. Check out [this video on github](https://www.youtube.com/watch?v=JN63v_czZqI) if you haven't used github before.
 
 2. On the [GitHub page for this repository](https://github.com/maegan/gitHubStartHere), click on the button "Fork."
 
